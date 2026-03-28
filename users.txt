@@ -1,0 +1,4 @@
+student1:$argon2id$v=19$m=65536,t=2,p=1$LifAifrzn4RSO5AqVC1a6A$z/wEU6Jf0qaZWAm5HP5xkctNr/QsLM2add7c9uCyyRA
+student2:$argon2id$v=19$m=65536,t=2,p=1$T6cxHLW0IhQWd6fcH5EIYw$wFw3mt3KmnHC4DalmwsrpApN29SGqhVtX5cqFIUoDrQ
+student3:$argon2id$v=19$m=65536,t=2,p=1$o74w6u8Xj4CasuxTsOWpHg$XL1li4ryLo1kVMIg+3f2bCBSlB6cwy+4UaQtmDcN14k
+student7:$argon2id$v=19$m=65536,t=2,p=1$LA5ZxSDXi3l099CYYjsYdg$pDdLrVUhemPyymPr1As6WGRpPEBBri8CqFqTxjmzQL8
